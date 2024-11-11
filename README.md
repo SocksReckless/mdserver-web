@@ -98,7 +98,7 @@ PHP[72-84]支持phpMyAdmin[5.2.1]
 
 | 服务商			| 	LOGO   |  推广地址  | 优惠码 |
 | ------------- |----------|-----------|-------|
-| 智能Cloud	|[![智能Cloud](https://oss.zhincloud.cn/image/logo/logo.png)](https://www.zhincloud.cn/act.html) | https://www.zhincloud.cn/act.html | mdserver-web |
+| 智能Cloud	|[![智能Cloud](https://oss.zhincloud.cn/image/logo/logo.png)](https://www.zhincloud.cn/act.html) | https://www.zhincloud.cn/act.html | ZhinCloud1111 |
 
 # Docker
 
