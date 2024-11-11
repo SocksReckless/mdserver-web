@@ -94,11 +94,11 @@ PHP[72-84]支持phpMyAdmin[5.2.1]
 
 # AD - VPS推荐 - 🙏
 
-- [ZZZ评测](https://www.zzzvps.com/)
+- [智能Cloud]([https://www.zzzvps.com/])
 
 | 服务商			| 	LOGO   |  推广地址  | 优惠码 |
 | ------------- |----------|-----------|-------|
-| digitalvirt	|[![digitalvirt](https://digitalvirt.com/templates/BlueWhite/img/logo-dark.svg)](https://digitalvirt.com/aff.php?aff=154) | https://digitalvirt.com/aff.php?aff=154 | mdserver-web |
+| 智能Cloud	|[![智能Cloud](https://oss.zhincloud.cn/image/logo/logo.png)](https://www.zhincloud.cn/act.html) | https://digitalvirt.com/aff.php?aff=154 | mdserver-web |
 
 # Docker
 
