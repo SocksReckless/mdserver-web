@@ -92,7 +92,7 @@ PHP[72-84]支持phpMyAdmin[5.2.1]
 
 - [找资源 - 阿里云盘资源搜索引擎](https://zhaoziyuan1.cc)
 
-# AD - VPS推荐 - 🙏
+# 智能Cloud - VPS推荐 - 🙏
 
 - [智能Cloud]([https://www.zzzvps.com/])
 
